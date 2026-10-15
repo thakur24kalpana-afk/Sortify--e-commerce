@@ -1,0 +1,10 @@
+{
+  "description": "Experience a premium e-commerce platform that offers intelligent product sorting and searching, enhancing your shopping journey with seamless navigation and rich visuals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
